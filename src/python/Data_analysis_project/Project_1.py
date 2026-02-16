@@ -8,7 +8,7 @@ df = pd.read_csv("Sales_50000.csv")
 conn_str = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
     "SERVER=localhost\\SQLEXPRESS;"
-    "DATABASE=course_project_!;"
+    "DATABASE=course_project_1;"
     "Trusted_Connection=yes;"
 )
 

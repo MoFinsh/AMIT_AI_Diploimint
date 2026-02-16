@@ -9,3 +9,4 @@ matplotlib == 3.10.8
 plotly == 6.5.2
 sqlalchemy == 2.0.46
 pymongo == 4.16.0
+scikit-learn == 1.8.0
