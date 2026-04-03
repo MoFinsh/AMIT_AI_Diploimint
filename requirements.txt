@@ -10,3 +10,4 @@ plotly == 6.5.2
 sqlalchemy == 2.0.46
 pymongo == 4.16.0
 scikit-learn == 1.8.0
+mord == 0.7
